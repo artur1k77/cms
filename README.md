@@ -1,1 +1,1 @@
-ExpressionEngine = http://eeclub.ru/
+ExpressionEngine - http://eeclub.ru/
